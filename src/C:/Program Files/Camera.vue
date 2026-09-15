@@ -1,4 +1,3 @@
-```vue
 <template>
   <div :class="$style.camera">
     <div class="video">
@@ -248,4 +247,3 @@ export default {
   },
 };
 </script>
-```
